@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly,
-  we work for fun."
+hero_text: "<strong>I'm Meekohi</strong>, testing this forestry.io stuff.<br><br>It's
+  supposed to be easy to use."
 title: Hero
 
 ---

@@ -20,3 +20,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/journal/testing-a-new-journal-entry.md
